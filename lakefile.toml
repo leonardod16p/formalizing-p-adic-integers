@@ -8,3 +8,8 @@ name = "PadicIntegers"
 [[lean_exe]]
 name = "padicintegers"
 root = "Main"
+
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
