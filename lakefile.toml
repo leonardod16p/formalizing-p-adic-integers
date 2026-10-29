@@ -1,0 +1,10 @@
+name = "PadicIntegers"
+version = "0.1.0"
+defaultTargets = ["padicintegers"]
+
+[[lean_lib]]
+name = "PadicIntegers"
+
+[[lean_exe]]
+name = "padicintegers"
+root = "Main"
